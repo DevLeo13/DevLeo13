@@ -1,12 +1,12 @@
 <h1 align="center"> Hi, i'm Leo!😁</h1>
  <div>
   <img align="center" alt="coding" width="100%" height="400" src="https://i.pinimg.com/originals/d7/33/34/d733345e4f11231904e7634a04439e21.gif">
-  <a href="https://github.com/leo13132">
+  <a href="https://github.com/DevLeo13">
    <h4 align="center" > I'm Leonardo Henrique. I have a great effort to learn more and more about technologies and with a continuous teaching in Technology focused on Systems Analysis and Development. I am a qualified student in HTML, CSS, MySQL, Java and Web Development. My activities are far beyond my educational flow.😚</h4>
          
   <h1 align="center"> My GitHub stats ⚡</h1>
-  <img height="180em" width="370" src="https://github-readme-stats.vercel.app/api?username=leo13132&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true"/>
-  <img height="180em" width="400" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leo13132&layout=compact&langs_count=7&theme=synthwave"/>
+  <img height="180em" width="370" src="https://github-readme-stats.vercel.app/api?username=DevLeo13&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true"/>
+  <img height="180em" width="400" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevLeo13&layout=compact&langs_count=7&theme=synthwave"/>
 </div>
 <div align="center"><br>
   <h1 align="center"> My technologies!🚀</h1>
