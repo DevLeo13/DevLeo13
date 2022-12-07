@@ -8,7 +8,7 @@
   <a href="https://github.com/leo13132">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=leo13132&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leo13132&layout=compact&langs_count=7&theme=dark"/>
-  <img align="right" alt="Coding" width="400" src="https://giphy.com/gifs/screen-monitor-closeup-26tn33aiTi1jkl6H6?utm_source=media-link&utm_medium=landing&utm_campaign=Media%20Links&utm_term=i">
+  <img align="right" alt="Coding" width="400" src="https://media2.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif?cid=790b7611179eee3b240358266e246ff7b89a29fde7d0a11f&rid=giphy.gif&ct=g">
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
