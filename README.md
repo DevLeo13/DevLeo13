@@ -1,4 +1,4 @@
-## Hi, i'm Leo a Developer in making!😁</h1>
+<h1 align="center"> Hi, i'm Leo a Developer in making!😁</h1>
  <div>
   <img align="center" alt="coding" width="100%" height="400" src="https://i.pinimg.com/originals/d7/33/34/d733345e4f11231904e7634a04439e21.gif">
   <a href="https://github.com/leo13132">
