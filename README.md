@@ -5,7 +5,7 @@
 - 📫 E-mail: leo.ab13@hotmail.com
 
  <div>
-  <img align="right" alt="Coding" width="400" src="https://media2.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif? cid=790b7611179eee3b240358266e246ff7b89a29fde7d0a11f&rid=giphy.gif&ct=g">
+  <img align="right" alt="Coding" width="400" src="https://res.cloudinary.com/practicaldev/image/fetch/s--_AGrXPbv--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://res.cloudinary.com/practicaldev/image/fetch/s--sNXjzc6P--/c_limit%252Cf_auto%252Cfl_progressive%252Cq_66%252Cw_880/https://media1.tenor.com/images/0c34272909ee2a4db5606a014082312b/tenor.gif%253Fitemid%253D15828752">
   <a href="https://github.com/leo13132">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=leo13132&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leo13132&layout=compact&langs_count=7&theme=dark"/>
