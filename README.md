@@ -6,7 +6,7 @@
          
    <h1 align="center"> My GitHub stats ⚡</h1>
   <img height="180em" width="500" src="https://github-readme-stats.vercel.app/api?username=leo13132&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true"/>
-  <img height="180em" width="450" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leo13132&layout=compact&langs_count=7&theme=synthwave"/>
+  <img height="180em" width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leo13132&layout=compact&langs_count=7&theme=synthwave"/>
 </div>
 <div align="center"><br>
   <h1 align="center"> My technologies!🚀</h1>
